@@ -1,6 +1,10 @@
 # Byron Bradley's portfolio
 
-Public portfolio at https://byronbradley.me, hosted from the root of `main` with GitHub Pages.
+Electrical engineering student at the University at Buffalo. Projects in electronics repair, embedded firmware, and circuit testing.
+
+[Portfolio](https://byronbradley.me/) · [GitHub](https://github.com/byronbradley) · [LinkedIn](https://www.linkedin.com/in/byronpbradley/)
+
+Hosted from the root of `main` with GitHub Pages.
 
 ## Files
 
@@ -12,6 +16,10 @@ Public portfolio at https://byronbradley.me, hosted from the root of `main` with
 - `404.html`, `robots.txt`, `sitemap.xml`: navigation fallback and search metadata.
 
 No dependencies, build process, analytics, external fonts, or form service are required. Open a local HTTP server in this directory to preview changes. Commits to `main` deploy automatically through GitHub Pages.
+
+## Search metadata
+
+The homepage includes profile structured data linking Byron Bradley's website, GitHub, and LinkedIn. Keep the Google Search Console verification meta tag in `index.html` so site ownership stays verified. The sitemap lists the canonical public pages; update each `lastmod` only when that page actually changes.
 
 ## Content sources
 
